@@ -1,4 +1,4 @@
-print("📜 Poetry Discord Bot - All rights reserved | Developed by Nawaf 💻")
+print("📜 khawater Discord Bot - All rights reserved | Developed by Nawaf 💻")
 import discord
 from discord.ext import commands
 from discord import app_commands
