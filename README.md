@@ -16,23 +16,29 @@
 
 ---
 # 1. كلون للمستودع
+## ⚙️ كيفية الإعداد
+
+### 1. كلون للمستودع
+```bash
 git clone https://github.com/By-iNawaf/Khawatir-Bot.git
-
+git clone https://github.com/By-iNawaf/Khawatir-Bot.git
+```
 # 2. الدخول إلى المجلد
+```bash
 cd Khawatir-Bot
+```
 
-# 3. إنشاء بيئة افتراضية (اختياري لكن يُفضّل)
-python -m venv venv
-venv\Scripts\activate  # أو source venv/bin/activate على لينوكس
-
-# 4. تثبيت المتطلبات
+# 3. تثبيت المتطلبات
+```bash
 pip install -r requirements.txt
-
-# 5. تعديل بيانات التوكن داخل ملف config أو .env
-# افتح ملف config أو .env وأضف التوكن الخاص بك
+```
+# 5. تعديل بيانات التوكن داخل ملف khawater_bot.py
+# افتح ملف khawater_bot.py وأضف التوكن الخاص بك
 
 # 6. تشغيل البوت
+```bash
 python khawater_bot.py
+```
 
 
 
