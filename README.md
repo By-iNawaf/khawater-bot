@@ -15,12 +15,11 @@
 - 🛠️ إعدادات مرنة وسهلة من داخل الديسكورد
 
 ---
-# 1. كلون للمستودع
+
 ## ⚙️ كيفية الإعداد
 
 ### 1. كلون للمستودع
 ```bash
-git clone https://github.com/By-iNawaf/Khawatir-Bot.git
 git clone https://github.com/By-iNawaf/Khawatir-Bot.git
 ```
 # 2. الدخول إلى المجلد
@@ -39,8 +38,6 @@ pip install -r requirements.txt
 ```bash
 python khawater_bot.py
 ```
-
-
 
 ## 🛠️ الأوامر الرئيسية
 
