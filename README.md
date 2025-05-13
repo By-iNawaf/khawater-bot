@@ -31,10 +31,9 @@ cd Khawatir-Bot
 ```bash
 pip install -r requirements.txt
 ```
-# 5. تعديل بيانات التوكن داخل ملف khawater_bot.py
-# افتح ملف khawater_bot.py وأضف التوكن الخاص بك
+# 4. تعديل بيانات التوكن داخل ملف khawater_bot.py
 
-# 6. تشغيل البوت
+# 5. تشغيل البوت
 ```bash
 python khawater_bot.py
 ```
